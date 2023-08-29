@@ -1,6 +1,6 @@
 
 
-Computational Gerrymandering
+***Computational Gerrymandering***
 
 Members: Mac O'Brien, Jessica Hannebert, Casmali Lopez, Elizabeth Seero
 
